@@ -25,7 +25,7 @@ maintenance, and easy-to-use test automation frameworks for Web, Mobile, and API
 - Hands-on technical leadership, defining/driving test strategies, guidelines and best practices across the Web, Middleware, and Mobile Application teams.
 - Assist in the process of Continuous Integration and Delivery by removing slow, fragile, and unmaintainable automated tests and replacing them with isolated, robust, clean, and low maintenance front end (UI) and backend (API) tests that form part of our pull-request and deployment pipelines.
 - Introduce Sauce Labs continuous delivery platform to enhance/enable cloud based continuous testing at scale for our Web and Mobile Applications.
-- Promate and encourage collaboration within Agile by introducing Behavioral Driven Development (BDD.
+- Promate and encourage collaboration within Agile teams by introducing Behavioral Driven Development (BDD.
 - All aspects of recruitment, from writing job specifications, through to hiring/on-boarding    
 - **_Technologies used:_** ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
