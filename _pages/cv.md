@@ -1,12 +1,9 @@
 ---
-title: "Ian Hamilton"
+title: ""
 excerpt: ""
 sitemap: true
 permalink: /cv/
 ---
-
-_Principal QA Engineer / Senior Software Engineer in Test based in Dubai, United Arab Emirates_ <br>
-
 ## 👨‍💻 Areas of Expertise
 ★ Providing leadership, strategies, guidelines and industry best practices in the field of Quality Assurance & Test Automation.  
 ★ Supporting organizations in the transition to Agile testing practices.  
