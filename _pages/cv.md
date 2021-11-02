@@ -1,7 +1,7 @@
 ---
 title: "Ian Hamilton"
 excerpt: ""
-sitemap: false
+sitemap: true
 permalink: /cv/
 ---
 
