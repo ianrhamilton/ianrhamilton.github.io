@@ -153,12 +153,12 @@ Amigos and cucumber to support better communication.
 **Agile Test Engineer** @ [Nokia, Ovi Maps](https://wego.here.com/) _(Apr 2011 - Oct 2011)_
 <span style="color:grey">*Berlin, Germany.*</span><br>
 
-- Working within an Agile Scrum team I performed all aspects of Quality Assurance, including manual exploratory feature testing, as well as then creating automated tests in order to reduce our weekly regression cycles from 3 days to one.<br><br>
+- Working within an Agile Scrum team I performed all aspects of Quality Assurance, including manual exploratory testing, as well as then creating automated regression/sit tests in order to help reduce our weekly regression cycles from 3 days to one.<br><br>
 
 **Graduate Test Engineer** @ EMCC Software Ltd _(Apr 2011 - Oct 2011)_
 <span style="color:grey">*Manchester, United Kingdom.*</span><br>
 
-- Testing mobile applocations for S60, Motorola, Blackberry, and iOS devices.<br><br>
+- Testing mobile applications for S60, Motorola, Blackberry, and iOS devices.<br><br>
 
 ## 🎓 Education
 
