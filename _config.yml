@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Ian Hamilton"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "A self-motivated and analytically minded Senior SDET (Software Engineer in Test) / Test Automation Architect with a passion for quality and continuous delivery."
+  bio    : "A self-motivated and analytically minded Senior SDET (Software Engineer in Test) / Test Automation Architect with a passion for quality and continuous delivery :rocket:"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
