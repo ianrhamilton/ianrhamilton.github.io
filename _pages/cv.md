@@ -4,6 +4,10 @@ excerpt: ""
 sitemap: true
 permalink: /cv/
 ---
+
+## Download
+you can [download pdf](/assets/ian_hamilton_cv.pdf) here.
+
 ## 👨‍💻 Areas of Expertise
 ★ Providing leadership, strategies, guidelines and industry best practices in the field of Quality Assurance & Test Automation.  
 ★ Supporting organizations in the transition to Agile testing practices.  
