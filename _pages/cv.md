@@ -21,6 +21,7 @@ maintenance, and easy-to-use test automation frameworks for Web, Mobile, and API
 
 - Hands-on technical leadership, defining/driving test strategies, guidelines and best practices across the Web, Middleware, and Mobile Application teams.
 - Assist in the process of Continuous Integration and Delivery by removing slow, fragile, and unmaintainable automated tests and replacing them with isolated, robust, clean, and low maintenance frontend (UI) and backend (API) tests that form part of our pull-request and continuous deployment pipelines.
+- Introduce consumer driven contract testing to web and mobile teams using pact as a way to ensure that our microservices can continuously communicate with each other.
 - Introduce Sauce Labs continuous delivery platform to enhance/enable cloud based continuous testing at scale for our Web and Mobile Applications.
 - Promate and encourage collaboration within Agile teams by introducing Behavioral Driven Development (BDD.
 - All aspects of recruitment, from writing job specifications, through to hiring/on-boarding    
@@ -84,7 +85,9 @@ pipelines to enable continuous delivery of the developer.redhat.com website.
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Gatling](https://img.shields.io/badge/Gatling-%23663399.svg?style=for-the-badge&logo=gatling&logoColor=white)
-![Cucumber](https://img.shields.io/badge/cucumber-%23000000.svg?style=for-the-badge&logo=cucumber&logoColor=white)<br><br>
+![Cucumber](https://img.shields.io/badge/cucumber-%23000000.svg?style=for-the-badge&logo=cucumber&logoColor=white)
+![ZAP](https://img.shields.io/badge/OWASP-zap-%23DC322F.svg?style=for-the-badge&logo=zap&logoColor=white)
+![SauceLabs](https://img.shields.io/badge/saucelabs-%23000000.svg?style=for-the-badge&logo=saucelabs&logoColor=white)<br><br>
 
 **Senior SDET | Lead QA (Contract)** @ [Red Hat](https://developers.redhat.com/) _(Oct 2015 - Mar 2017)_ 
 <span style="color:grey">*Newcastle Upon Tyne, United Kingdom.*</span> <br>
@@ -105,7 +108,10 @@ Amigos and cucumber to support better communication.
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Gatling](https://img.shields.io/badge/Gatling-%23663399.svg?style=for-the-badge&logo=gatling&logoColor=white)
-![Cucumber](https://img.shields.io/badge/cucumber-%23000000.svg?style=for-the-badge&logo=cucumber&logoColor=white)<br><br>
+![Cucumber](https://img.shields.io/badge/cucumber-%23000000.svg?style=for-the-badge&logo=cucumber&logoColor=white)
+![ZAP](https://img.shields.io/badge/OWASP-zap-%23DC322F.svg?style=for-the-badge&logo=zap&logoColor=white)
+![SauceLabs](https://img.shields.io/badge/saucelabs-%23000000.svg?style=for-the-badge&logo=saucelabs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-007ACC?style=for-the-badge&logo=mongodb&logoColor=white)<br><br>
 
 **Test Automation Lead (Contract)** @ [BBC](https://www.bbc.co.uk/iplayer) _(Aug 2013 - Jun 2014)_
 <span style="color:grey">*Media City, Salford, United Kingdom.*</span><br>
