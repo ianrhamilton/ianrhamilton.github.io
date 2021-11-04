@@ -150,12 +150,12 @@ Amigos and cucumber to support better communication.
 
 - Working within an Agile Kanban team on a range of web E-Commerce and Media applications; performing all aspects of quality assurance; including setting up the **first-ever** java-based selenium-webDriver framework in order to reduce time to market.
 
-**Agile Test Engineer** @ [Nokia, Ovi Maps](https://wego.here.com/) _(Aug 2010 - Apr 2011)_
+**Agile Test Engineer** @ [Nokia, Ovi Maps](https://wego.here.com/) _(Aug 2009 - Apr 2011)_
 <span style="color:grey">*Berlin, Germany.*</span><br>
 
 - Working within an Agile Scrum team I performed all aspects of Quality Assurance, including manual exploratory testing, as well as then creating automated regression/sit tests in order to help reduce our weekly regression cycles from 3 days to one.<br><br>
 
-**Graduate Test Engineer** @ EMCC Software Ltd _(Apr 2011 - Oct 2011)_
+**Graduate Test Engineer** @ EMCC Software Ltd _(Aug 2007 - Apr 2009)_
 <span style="color:grey">*Manchester, United Kingdom.*</span><br>
 
 - Testing mobile applications for S60, Motorola, Blackberry, and iOS devices.<br><br>
