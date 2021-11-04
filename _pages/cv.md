@@ -5,9 +5,6 @@ sitemap: true
 permalink: /cv/
 ---
 
-## Download
-you can [download pdf](/assets/ian_hamilton_cv.pdf) here.
-
 ## 👨‍💻 Areas of Expertise
 ★ Providing leadership, strategies, guidelines and industry best practices in the field of Quality Assurance & Test Automation.  
 ★ Supporting organizations in the transition to Agile testing practices.  
@@ -160,15 +157,15 @@ Amigos and cucumber to support better communication.
 
 - Working within an Agile Kanban team on a range of web E-Commerce and Media applications; performing all aspects of quality assurance; including setting up the **first-ever** java-based selenium-webDriver framework in order to reduce time to market.
 
-**Agile Test Engineer** @ [Nokia, Ovi Maps](https://wego.here.com/) _(Aug 2009 - Apr 2011)_
+**Test Automation Engineer** @ [Nokia, Ovi Maps](https://wego.here.com/) _(Aug 2009 - Apr 2011)_
 <span style="color:grey">*Berlin, Germany.*</span><br>
 
 - Working within an Agile Scrum team I performed all aspects of Quality Assurance, including manual exploratory testing, as well as then creating automated regression/sit tests in order to help reduce our weekly regression cycles from 3 days to one.<br><br>
 
-**Graduate Test Engineer** @ EMCC Software Ltd _(Aug 2007 - Apr 2009)_
+**Test Engineer** @ EMCC Software Ltd _(Aug 2007 - Apr 2009)_
 <span style="color:grey">*Manchester, United Kingdom.*</span><br>
 
-- Testing mobile applications for S60, Motorola, Blackberry, and iOS devices.<br><br>
+- Manual testing of mobile applications for S60, Motorola, Blackberry, and iOS devices.<br><br>
 
 ## 🎓 Education
 
@@ -177,4 +174,8 @@ Amigos and cucumber to support better communication.
 
 **ISTQB** Foundation Certificate in Software Testing<br>
 [ISTQB](https://www.istqb.org/) - Berlin, Germany _(2010)_ <br>
+
+## Download
+If you're interested in hiring me, feel free to download a copy of my CV [here](/assets/ian_hamilton_cv.pdf).
+
 
