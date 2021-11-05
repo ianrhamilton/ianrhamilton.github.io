@@ -55,6 +55,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-analytics
   
 author:
   name   : "Ian Hamilton"
@@ -111,3 +112,8 @@ tag_archive:
   path: /tags/
 
 github: [metadata]
+
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: G-V62Q3R4GMJ        # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
