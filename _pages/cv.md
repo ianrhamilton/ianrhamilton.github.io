@@ -144,7 +144,7 @@ Amigos and cucumber to support better communication.
 <span style="color:grey">*Media City, Salford, United Kingdom.*</span><br>
 
 - Worked within a greenfield Agile team on the all-new responsive web application for BBC iPlayer Radio.
-- Implemented (at the time) bleeding-edge automated test frameworks for responsive web applications using real mobile devices (**first ever for BBC**), and setting up Jenkins jobs to support continuous integration.
+- Implemented (at the time) bleeding-edge automated test frameworks for responsive web applications using real mobile devices, and setting up Jenkins jobs to support continuous integration.
 
 - **_Technologies used:_** ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
