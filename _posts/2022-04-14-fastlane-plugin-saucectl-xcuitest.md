@@ -936,6 +936,8 @@ This will cruise through each of your created `lanes` 😎
 # Summary
 `fastlane-plugin-saucectl` automates every aspect of your development and testing workflow for Sauce Labs execution. The flexible options for configuration are a huge benefit.
 
+Check out the example [`Fastfile`](https://github.com/ianrhamilton/fastlane-plugin-saucectl/blob/main/fastlane/Fastfile#L80) in the fastlane-plugin-saucectl repository.
+
 I hope you enjoyed part-one - if you did please show your support and give the repo a star, share, or even contribute! 🙏 
 
 In part-two I will explain how you can use the `fastlane-plugin-saucectl` plugin to automate the set up and configuration for Android `espresso` UI tests on Sauce Labs.
