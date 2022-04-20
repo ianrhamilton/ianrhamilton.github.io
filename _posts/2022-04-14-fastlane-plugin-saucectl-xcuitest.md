@@ -10,9 +10,9 @@ tags:
   - fastlane-plugin-saucectl
 ---
   
-This post is part one of a series of blog posts where I will explain how you can to utilise ***[fastlane](https://fastlane.tools/)*** and [Sauce Labs](https://docs.saucelabs.com/) for the execution of XCUITests on the Sauce Real Device Cloud platform.
+This post is part one of a series of blog posts where I will explain how you can to utilise ***[fastlane](https://fastlane.tools/)*** and [Sauce Labs](https://docs.saucelabs.com/) for the execution of mobile app UI Tests.
 
-In part one you’ll learn the following:
+Part one will focus on iOS & XCUITest. You will learn the following:
 1. Set up *fastlane*
 2. Install *fastlane-plugin-saucectl*
 3. Upload application `ipa` files to Sauce Labs storage
