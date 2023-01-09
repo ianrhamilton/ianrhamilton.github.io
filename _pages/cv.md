@@ -17,7 +17,39 @@ maintenance, and easy-to-use test automation frameworks for Web, Mobile, and API
 
 ## 👨‍💻 Technical Experience
 
-**Automation Lead / Senior Quality Assurance Engineer** @ [Emirates](https://emirates.com) _(Jan 2018 - Present)_
+**Automation Principal** @ [Du (Emirates Integrated Telecommunications Co) ](https://du.ae) _(Apr 2022 - Present)_
+<span style="color:grey">*Dubai, United Arab Emirates*</span><br>
+
+- Design and implement an Automated test Strategy and process to empower Continuous Integration and Delivery.
+- Select, implement, and utilize best-fit frameworks and tools for Automated testing across our Web & Mobile, and Backend Microservices channels.
+- Working alongside the DevOps Principal to define and outline a shift left process and best practices and lead the evaluation and selection of a cloud infrastructure and device cloud vendor (AWS) that will enable us to achieve our shift left goal.
+- Continuous collaboration with Security and Compliance teams to ensure the highest standards of the QA process in a highly regulated region.
+- Lead a team of offshore SDETs (Software Engineers in Test) and contribute by being hands-on with day-to-day technical tasks.
+- Work across engineering to inject testing earlier into the software development process and advocate for practices associated with "Shifting left" and drive the adoption of best practices in code health, testing, testability, and maintainability (such as clean code and the test pyramid).
+ 
+- **_Technologies used:_** ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Detox](https://img.shields.io/badge/detox-007ACC?style=for-the-badge&logo=detox&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![Cucumber](https://img.shields.io/badge/cucumber-%23000000.svg?style=for-the-badge&logo=cucumber&logoColor=white)
+![Webdriver.io](https://img.shields.io/badge/webdriverio-%23326ce5.svg?style=for-the-badge&logo=webdriverio&logoColor=white)
+![Chai](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
+![Pact.io](https://img.shields.io/badge/pact.io-%23326ce5.svg?style=for-the-badge&logo=pact.io&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<br><br>
+
+**Automation Lead / Senior Quality Assurance Engineer** @ [Emirates](https://emirates.com) _(Jan 2018 - Apr 2022)_
 <span style="color:grey">*Dubai, United Arab Emirates*</span><br>
 
 - Hands-on technical leadership, defining/driving test strategies, guidelines and best practices across the Web, Middleware, and Mobile Application teams.
@@ -29,18 +61,18 @@ maintenance, and easy-to-use test automation frameworks for Web, Mobile, and API
 - **_Technologies used:_** ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23CC342D.svg?style=for-the-badge&logo=java&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![Webdriver.io](https://img.shields.io/badge/webdriverio-%23326ce5.svg?style=for-the-badge&logo=webdriverio&logoColor=white)
+![Chai](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
 ![Espresso](https://img.shields.io/badge/espresso-%6DA55F.svg?style=for-the-badge&logo=espresso&logoColor=white)
 ![XCTest](https://img.shields.io/badge/xctest-F54A2A?style=for-the-badge&logo=xctest&logoColor=white)
 ![Pact.io](https://img.shields.io/badge/pact.io-%23326ce5.svg?style=for-the-badge&logo=pact.io&logoColor=white)
@@ -49,7 +81,6 @@ maintenance, and easy-to-use test automation frameworks for Web, Mobile, and API
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SauceLabs](https://img.shields.io/badge/saucelabs-%23000000.svg?style=for-the-badge&logo=saucelabs&logoColor=white)
-![Gatling](https://img.shields.io/badge/Gatling-%23663399.svg?style=for-the-badge&logo=gatling&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/cucumber-%23000000.svg?style=for-the-badge&logo=cucumber&logoColor=white)<br><br>
 
 **Senior SDET | Lead QA (Contract)** @ [Red Hat](https://developers.redhat.com/) _(May 2017 - Jan 2018)_
@@ -61,7 +92,8 @@ maintenance, and easy-to-use test automation frameworks for Web, Mobile, and API
 - Work closely with DevOps Engineers to assist in the process of continuous integration
 pipelines to enable continuous delivery of the developer.redhat.com website.
 - **_Technologies used:_** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
+![Chai](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23CC342D.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
