@@ -5,28 +5,38 @@ sitemap: true
 permalink: /cv/
 ---
 
+# Professional Summary
+A seasoned Quality Engineering Leader renowned for innovating Test Automation strategies and staying at the forefront of technology adoption. Possessing proficiency in a wide array of programming languages, they have developed comprehensive test frameworks that encompass Web, Mobile, and Backend Microservices. Their hands-on leadership style is exemplified through their excellence in mentoring Quality Engineers, cultivating cross-functional collaborations, and optimizing Continuous Integration and Delivery processes. Known for their passionate advocacy of best practices, they prioritize early-stage testing, clean coding, and agile methodologies, all contributing to accelerated time to market and unmatched product integrity. <br><br>
+
 ## 👨‍💻 Areas of Expertise
-★ Providing leadership, strategies, guidelines and industry best practices in the field of Quality Assurance & Test Automation.  
-★ Supporting organizations in the transition to Agile testing practices.  
-★ Supporting & Enabling Continuous Integration and Delivery by providing robust, low
-maintenance, and easy-to-use test automation frameworks for Web, Mobile, and API applications in a wide variety of languages.  
-★ Extensive knowledge of Scrum, Kanban, XP, SAFe and Agile development practices including TDD and BDD.  
-★ Automated testing at scale in the cloud utilizing BrowserStack or Sauce Labs.  
-★ A deep understanding of DevOps and Continuous Delivery tools such as Jenkins, Docker, and Kubernetes.  
-★ Building tools & packages to support automation such as Gemfiles, NPM packages, and CocoaPods.
+★ Leadership in Quality Assurance & Test Automation: Offering strategies, guidelines, and best practices rooted in industry standards.
+★ Agile Transition: Assisting organizations in seamlessly adopting Agile testing methodologies.
+★ Robust Test Automation Frameworks: Creating and supporting frameworks for Web, Mobile, and API applications across languages, including Kotlin, Swift, NodeJS/JavaScript, TypeScript, React, React Native, Scala, Java, Groovy, and Ruby.
+★ Proficiency in Testing Tools: Espresso, XCUITest, Detox, Webdriver.io, Appium, and Gatling.
+★ Agile Practices: Deep knowledge of Scrum, Kanban, XP, and SAFe, with hands-on experience in TDD, BDD, and related tools like Cucumber.
+★ Cloud-Based Automated Testing: Utilizing platforms like AWS, BrowserStack, and Sauce Labs for scalable testing solutions.
+★ DevOps and Continuous Delivery Expertise: Comprehensive understanding of tools like Jenkins and Docker, with expertise in crafting Jenkins pipelines for CI/CD. <br><br>
 
 ## 👨‍💻 Technical Experience
 
 **Automation Principal** @ [Du (Emirates Integrated Telecommunications Co) ](https://du.ae) _(Apr 2022 - Present)_
 <span style="color:grey">*Dubai, United Arab Emirates*</span><br>
 
-- Design and implement an Automated test Strategy and process to empower Continuous Integration and Delivery.
-- Select, implement, and utilize best-fit frameworks and tools for Automated testing across our Web & Mobile, and Backend Microservices channels.
-- Working alongside the DevOps Principal to define and outline a shift left process and best practices and lead the evaluation and selection of a cloud infrastructure and device cloud vendor (AWS) that will enable us to achieve our shift left goal.
-- Continuous collaboration with Security and Compliance teams to ensure the highest standards of the QA process in a highly regulated region.
-- Lead a team of offshore SDETs (Software Engineers in Test) and contribute by being hands-on with day-to-day technical tasks.
-- Work across engineering to inject testing earlier into the software development process and advocate for practices associated with "Shifting left" and drive the adoption of best practices in code health, testing, testability, and maintainability (such as clean code and the test pyramid).
- 
+★ Strategic Leadership & Implementation: 
+Designed and implemented an innovative Automated Test Strategy, enhancing Continuous Integration, and Continuous Delivery.Steered a diverse team of Quality Engineers, emphasising
+hands-on leadership, mentorship, and technical guidance.
+★ Optimisation of Testing Technologies: 
+Handpicked and integrated best-fit test automation frameworks and tools, catering to Web, Mobile, and Backend Microservices, ensuring holistic test coverage and quality assurance.
+Championed the adoption of technologies such as iOS, Android, React Native, Detox, Cypress, Typescript, webdriver.io, Jest, Cucumber, Java, RestAssured, Pact, Gatling, Docker, Kubernetes, and GraphQL to stay at the forefront of quality engineering.
+★ Cloud Strategy & Vendor Collaboration: 
+Orchestrated the evaluation, selection, and adoption of AWS as the primary cloud infrastructure and device cloud vendor, anchoring our shift-left strategy and cloud-centric quality processes.
+★ Cross-Functional Collaboration: 
+Fostered continuous engagement with Security and Compliance divisions, upholding the zenith of QA standards, and ensuring product integrity.
+Collaboratively worked across various engineering departments to ingrain early-stage testing practices, ardently promoting the "Shift left" philosophy.
+★ Advocacy for Best Practices:
+Galvanised the embracement of coding and testing best practices, including clean code principles and the Test Pyramid model, ensuring software longevity and ease of maintainability. <br><br>
+
+
 - **_Technologies used:_** ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -52,12 +62,19 @@ maintenance, and easy-to-use test automation frameworks for Web, Mobile, and API
 **Automation Lead / Senior Quality Assurance Engineer** @ [Emirates](https://emirates.com) _(Jan 2018 - Apr 2022)_
 <span style="color:grey">*Dubai, United Arab Emirates*</span><br>
 
-- Hands-on technical leadership, defining/driving test strategies, guidelines and best practices across the Web, Middleware, and Mobile Application teams.
-- Assist in the process of Continuous Integration and Delivery by removing slow, fragile, and unmaintainable automated tests and replacing them with isolated, robust, clean, and low maintenance frontend (UI) and backend (API) tests that form part of our pull-request and continuous deployment pipelines.
-- Introduce consumer driven contract testing to web and mobile teams using pact as a way to ensure that our microservices can continuously communicate with each other.
-- Introduce Sauce Labs continuous delivery platform to enhance/enable cloud based continuous testing at scale for our Web and Mobile Applications.
-- Promote and encourage collaboration within Agile teams by introducing Behavioral Driven Development (BDD).
-- All aspects of recruitment, from writing job specifications, through to hiring/on-boarding    
+★ Strategic Leadership: 
+Spearheaded the Automation Strategy, leading a team of ~16 Automation Engineers, and laid down robust best practices across Web, Middleware, and Mobile App domains. Instrumental in the modern shift to Automated testing techniques. 
+★ CI/CD Transformation: 
+Pioneered the transition from manual builds to automated pipelines, leveraging technologies like Swift, XCUITest, Kotlin, Espresso, Fastlane, and WebDriver.io. 
+Cloud Testing At Scale: 
+Rolled out expansive cloud-based testing via Sauce Labs, elevating efficiency benchmarks for Web and Mobile platforms.
+★ Enhanced Microservice Ecosystem: 
+Initiated consumer-driven contract testing with Pact, ensuring uninterrupted microservice communication.
+★ Agile Evangelism: 
+Promoted Behavioural Driven Development (BDD), reinforcing Agile collaboration and delivery. 
+★ Tech Synergy: 
+Developed reusable packages/tools that were written in Typescript, Swift, and Kotlin, integrated them across the firm's automation frameworks, and spearheaded the shift to a unified “One Test Strategy”, emphasizing technology consistency, smooth transition to automation, and maintainable code reuse. <br><br>
+ 
 - **_Technologies used:_** ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -83,14 +100,13 @@ maintenance, and easy-to-use test automation frameworks for Web, Mobile, and API
 ![SauceLabs](https://img.shields.io/badge/saucelabs-%23000000.svg?style=for-the-badge&logo=saucelabs&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/cucumber-%23000000.svg?style=for-the-badge&logo=cucumber&logoColor=white)<br><br>
 
-**Senior SDET | Lead QA (Contract)** @ [Red Hat](https://developers.redhat.com/) _(May 2017 - Jan 2018)_
+**Senior SDET | Lead QA (Contract)** @ [Red Hat](https://developers.redhat.com/) _(Oct 2017 - Jan 2018)_
 <span style="color:grey">*Newcastle Upon Tyne, United Kingdom.*</span> <br>
 
-- Provide Quality Leadership and oversee all aspects of testing, including establishing metrics, and applying industry best practices in the field of Test Automation.
-- Creation of tools and nodeJS based test automation frameworks using webdriver.io.
-- Creation of Scala-based performance test suites using Gatling.
-- Work closely with DevOps Engineers to assist in the process of continuous integration
-pipelines to enable continuous delivery of the developer.redhat.com website.
+★ Spearheaded Quality Assurance strategies, establishing key metrics and integrating cutting-edge Test Automation best practices.
+★ Crafted efficient nodeJS automation frameworks utilizing webdriver.io and devised Scala-based performance suites with Gatling.
+★ Partnered with DevOps to streamline integration pipelines, elevating the continuous integration and delivery cadence for RedHat developer offerings with each code modification. <br><br>
+
 - **_Technologies used:_** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
 ![Chai](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
@@ -108,9 +124,10 @@ pipelines to enable continuous delivery of the developer.redhat.com website.
 **Senior Associate (Contract)** @ [Equal Experts](https://www.equalexperts.com/) _(March 2017 - May 2017)_ 
 <span style="color:grey">*Newcastle Upon Tyne, United Kingdom.*</span><br>
 
-- Based on-site at HMRC, I was the key point of contact for all QA aspects of releases.
-- Lead and Mentor QA Teams.
-- Develop Automate Scala-based UI, API, and Performance Test frameworks.
+★ Based on-site at HMRC, I was the key point of contact for all QA aspects of releases.
+★ Lead and Mentor QA Teams.
+★ Develop Automate Scala-based UI, API, and Performance Test frameworks. <br><br>
+
 - **_Technologies used:_** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 ![Selenium](https://img.shields.io/badge/selenium-%23326ce5.svg?style=for-the-badge&logo=selenium&logoColor=white)
@@ -122,18 +139,14 @@ pipelines to enable continuous delivery of the developer.redhat.com website.
 ![ZAP](https://img.shields.io/badge/OWASP-zap-%23DC322F.svg?style=for-the-badge&logo=zap&logoColor=white)
 ![SauceLabs](https://img.shields.io/badge/saucelabs-%23000000.svg?style=for-the-badge&logo=saucelabs&logoColor=white)<br><br>
 
-**Senior SDET | Lead QA (Contract)** @ [Red Hat](https://developers.redhat.com/) _(Oct 2015 - Mar 2017)_ 
-<span style="color:grey">*Newcastle Upon Tyne, United Kingdom.*</span> <br>
-
-- As above.
 
 **Test Automation Specialist (Contract)** @ [HMRC](https://www.gov.uk/government/organisations/hm-revenue-customs) _(Jun 2014 - Oct 2015)_
 <span style="color:grey">*Newcastle Upon Tyne, United Kingdom.*</span><br>
 
-- Worked on-site at HMRC as a hands-on Automation Lead; working on HMRC’s new scala based Digital Tax Platform. My initial responsibility was to assess the current test automation strategy recommending a complete over hall of automated testing across all teams in Newcastle (~15 teams).
-- Designed, built, and managed a maintainable Scala-based automated test suite to maintain quality and consistency covering functional, regression, penetration, and performance tests.
-- Encourage better cross-team collaboration by introducing BDD concepts such as Three-
-Amigos and cucumber to support better communication.
+★ Acted as the on-site lead for all QA Automation elements throughout Agile release phases.
+★ Steered and nurtured QA teams, emphasizing best practices and fostering skill development among junior QA members.
+★ Innovated and deployed automated Scala-based frameworks for UI, API, and performance testing, benefiting ~16 scrum teams.
+★ Fostered enhanced cross-team synergy by integrating BDD methodologies, notably the "Three-Amigos" approach and Cucumber, to bolster communication & and enhance collaboration. <br><br>
 
 - **_Technologies used:_** ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 ![Selenium](https://img.shields.io/badge/selenium-%23326ce5.svg?style=for-the-badge&logo=selenium&logoColor=white)
@@ -148,9 +161,8 @@ Amigos and cucumber to support better communication.
 
 **Test Automation Lead (Contract)** @ [BBC](https://www.bbc.co.uk/iplayer) _(Aug 2013 - Jun 2014)_
 <span style="color:grey">*Media City, Salford, United Kingdom.*</span><br>
-
-- Hands-on test automation lead; working on the all-new iPlayer TV mobile app for Android and iOS my responsibility was to champion the Behavioral Driven Development (BDD) process of the development team consisting of Business Analysts, Product Owners, Scrum Masters, Developers and manual QA Engineers.
-- Build a reliable; easily maintainable Ruby-based Calabash/Cucumber test pack for iOS and Android devices **(First ever native automation framework for mobile at BBC)**, and set up Jenkins jobs to enable continuous integration.
+★ Spearheaded test automation for the revamped iPlayer TV mobile app on Android and iOS. Championed the Behavioral Driven Development (BDD) framework, orchestrating collaboration among Business Analysts, Product Owners, Scrum Masters, Developers, and QA Engineers.
+★ Developed and launched the BBC's inaugural native mobile automation framework using a robust, easily maintainable Ruby-driven Calabash/Cucumber test suite for iOS and Android. Additionally, established Jenkins workflows to empower continuous integration. <br><br>
 
 - **_Technologies used:_** ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -162,8 +174,8 @@ Amigos and cucumber to support better communication.
 
 **Test Automation Lead (Contract)** @ [Skrill](https://www.skrill.com/en/) _(Jan 2013 - Aug 2013)_
 <span style="color:grey">*Remote, Europe-wide.*</span><br>
+★ As the lead for a hybrid team of manual and automated test engineers, I initially charted a strategic direction for automated testing. This culminated in the conception, design, and rollout of a user-friendly, cost-efficient, and low-maintenance test suite, utilizing the Ruby/Watir-WebDriver framework. <br><br>
 
-- Leading a team of manual/automated test engineers my responsibility was to initially to define an automated test strategy and subsequently design, build, manage and deploy an easily understandable, low cost, low maintenance Ruby/Watir-WebDriver based automated test suite.
 - **_Technologies used:_**
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23CC342D.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -175,8 +187,8 @@ Amigos and cucumber to support better communication.
 **Senior Developer in Test (Contract)** @ [BBC](https://www.bbc.co.uk/sounds) _(Oct 2011 - Jan 2013)_
 <span style="color:grey">*Media City, Salford, United Kingdom.*</span><br>
 
-- Worked within a greenfield Agile team on the all-new responsive web application for BBC iPlayer Radio.
-- Implemented (at the time) bleeding-edge automated test frameworks for responsive web applications using real mobile devices, and setting up Jenkins jobs to support continuous integration.
+★ Collaborated with a pioneering Agile team to bring the innovative responsive web application of BBC iPlayer Radio to life.
+★ Introduced and spearheaded state-of-the-art automated testing frameworks for responsive web applications, marking a first for the BBC by utilizing actual mobile devices. Additionally, orchestrated Jenkins workflows to bolster continuous integration processes. <br><br>
 
 - **_Technologies used:_** ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -187,18 +199,19 @@ Amigos and cucumber to support better communication.
 **Test Automation Engineer** @ [The Hut Group](https://www.thehut.com/) _(Apr 2011 - Oct 2011)_
 <span style="color:grey">*Manchester, United Kingdom.*</span><br>
 
-- Working within an Agile Kanban team on a range of web E-Commerce and Media applications; performing all aspects of quality assurance; including setting up the **first-ever** java-based selenium-webDriver framework in order to reduce time to market.
+★ Collaborated on diverse E-Commerce and Media web applications, overseeing comprehensive quality assurance facets.
+★ Pioneered the integration of the inaugural Java-based Selenium WebDriver framework, a strategic move that significantly accelerated time-to-market. <br><br>
 
 **Test Automation Engineer** @ [Nokia, Ovi Maps](https://wego.here.com/) _(Aug 2009 - Apr 2011)_
 <span style="color:grey">*Berlin, Germany.*</span><br>
 
-- Working within an Agile Scrum team I performed all aspects of Quality Assurance, including manual exploratory testing, as well as then creating automated regression/sit tests in order to help reduce our weekly regression cycles from 3 days to one.<br><br>
+★ Pioneered the integration of the inaugural Java-based Selenium WebDriver framework, a strategic move that significantly accelerated time-to-market. Championed comprehensive Quality Assurance activities, encompassing meticulous manual exploratory testing for new features.
+★ Strategically devised and implemented automated tests, achieving a substantial reduction in regression cycles from 3 days to a single day. <br><br>
 
 **Test Engineer** @ EMCC Software Ltd _(Aug 2007 - Apr 2009)_
 <span style="color:grey">*Manchester, United Kingdom.*</span><br>
 
-- Manual testing of mobile applications for S60, Motorola, Blackberry, and iOS devices.<br><br>
-
+★ Perform all aspects of software quality assurance for the testing of third-party Series 60 device applications. <br><br>
 ## 🎓 Education
 
 **Bachelor of Science** in Computer Science<br>
